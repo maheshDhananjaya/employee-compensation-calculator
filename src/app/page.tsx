@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="mx-auto flex min-h-screen w-full max-w-5xl flex-col gap-8 px-4 py-8 sm:px-8">
       <section className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
-        <h1 className="text-2xl font-bold text-slate-900 sm:text-3xl">
+        <h1 className="font-bold text-slate-900 text-xl sm:text-2xl">
           Total Eligible Compensation on Service Termination
         </h1>
         <p className="mt-2 text-sm text-slate-600 sm:text-base">
