@@ -25,7 +25,7 @@ export default function Home() {
           <iframe
             src="/term-emp-act.pdf"
             title="Termination of Employment of Workmen PDF"
-            className="h-[900px] w-full"
+            className="h-full w-full"
           />
         </div>
       </section>
